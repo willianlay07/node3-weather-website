@@ -1,4 +1,3 @@
-console.log('Client site Javascript file is loaded')
 
 // To fetch JSON
 // https://puzzle.mead.io/puzzle
